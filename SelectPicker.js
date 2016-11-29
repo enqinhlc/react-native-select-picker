@@ -1,3 +1,11 @@
+/**
+ * Copyright 2016 Engin Halaç <enginhalac@gmail.com>
+ *
+ * @author  Engin Halaç <enginhalac@gmail.com>
+ * @url https://github.com/enqinhlc/react-native-select-picker
+ * @version 1.0
+ */
+
 import React, { Component } from 'react';
 import { StyleSheet, Text, View, TouchableOpacity, Modal, Picker, Dimensions } from 'react-native';
 
